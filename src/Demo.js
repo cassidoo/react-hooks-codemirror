@@ -1,6 +1,5 @@
 import React from "react";
 import CodeMirrorReact from "./codemirror";
-import "codemirror/lib/codemirror.css";
 
 // If you wanna try this, add a customTheme var set
 // to true to the component and make the theme

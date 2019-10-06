@@ -1,5 +1,6 @@
 import React, { useEffect, useRef } from "react";
 import CodeMirror from "codemirror";
+import "codemirror/lib/codemirror.css";
 
 export default function CodeMirrorReact({ options, language, customTheme }) {
   const inputElement = useRef();

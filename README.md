@@ -14,7 +14,8 @@ let options = {
 
 let language = "javascript";
 
-// if you want to have a custom theme, make this true, and include your CSS wherever this component is used.
+// If you want to have a custom theme, make this true,
+// and include your CSS wherever this component is used.
 // You can pick a default theme from here:
 // https://codemirror.net/demo/theme.html
 let customTheme = false;
