@@ -15,7 +15,7 @@ function Demo() {
   };
   return (
     <div className="demo">
-      <CodeMirrorReact options={options} language={"javascript"} />
+      <CodeMirrorReact options={options} language={"python"} />
     </div>
   );
 }
