@@ -11,7 +11,9 @@ function Demo() {
     lineNumbers: true,
     highlightFormatting: true,
     tabSize: 2,
-    theme: "dracula"
+    theme: "dracula",
+    hint: true,
+    extraKeys: { "Ctrl-Space": "autocomplete" }
   };
   return (
     <div className="demo">
