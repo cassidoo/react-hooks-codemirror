@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "codemirror": "^5.49.0"
+    "codemirror": "^5.58.2"
   },
   "devDependencies": {
     "@babel/core": "7.6.0",
